@@ -1,0 +1,8 @@
+{ "name": "My Preso", "sections": [
+  {"section":"01-intro"},
+  {"section":"02-js-to-coffee"},
+  {"section":"03-syntax"},
+  {"section":"04-how"},
+  {"section":"05-why"},
+  {"section":"06-done"}
+]}
