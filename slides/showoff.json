@@ -1,4 +1,4 @@
-{ "name": "My Preso", "sections": [
+{ "name": "CoffeeJug", "sections": [
   {"section":"01-intro"},
   {"section":"02-js-to-coffee"},
   {"section":"03-syntax"},
