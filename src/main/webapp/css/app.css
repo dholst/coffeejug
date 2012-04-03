@@ -1,0 +1,48 @@
+body {
+  padding: 100px;
+}
+
+label, input {
+  float: left;
+}
+
+.cc {
+  float: left;
+  margin-left: 10px;
+}
+
+.cc.visa {
+  background: url('../images/cards-all.png') no-repeat -29px -57px;
+  width: 43px;
+  height: 26px;
+}
+
+.cc.visa.on {
+  background: url('../images/cards-all.png') no-repeat -1px -1px;
+  width: 43px;
+  height: 26px;
+}
+
+.cc.mastercard {
+  background: url('../images/cards-all.png') no-repeat -79px -57px;
+  width: 44px;
+  height: 26px;
+}
+
+.cc.mastercard.on {
+  background: url('../images/cards-all.png') no-repeat -52px -1px;
+  width: 44px;
+  height: 26px;
+}
+
+.cc.discover {
+  background: url('../images/cards-all.png') no-repeat -127px -57px;
+  width: 43px;
+  height: 26px;
+}
+
+.cc.discover.on {
+  background: url('../images/cards-all.png') no-repeat -99px -1px;
+  width: 43px;
+  height: 26px;
+}
